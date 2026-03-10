@@ -2,38 +2,38 @@ import { Item } from "./types"
 
 export const items: Item[] = [
   {
-    slug: "iphone-15",
-    title: "iPhone 15",
-    description: "Smartphone Apple",
-    image: "/iphone.jpg",
-    details: "Tela OLED, chip A17..."
+    slug: "maca",
+    title: "Maçã",
+    description: "Doce e crocante",
+    image: "🍎",
+    details: "A maçã é rica em fibras e vitaminas."
   },
   {
-    slug: "macbook-air",
-    title: "Macbook Air",
-    description: "Notebook Apple",
-    image: "/mac.jpg",
-    details: "Chip M3..."
+    slug: "banana",
+    title: "Banana",
+    description: "Rica em potássio",
+    image: "🍌",
+    details: "A banana fornece energia e potássio."
   },
   {
-    slug: "ipad-pro",
-    title: "iPad Pro",
-    description: "Tablet Apple",
-    image: "/ipad.jpg",
-    details: "Tela Liquid Retina..."
+    slug: "laranja",
+    title: "Laranja",
+    description: "Cítrica",
+    image: "🍊",
+    details: "A laranja é rica em vitamina C."
   },
   {
-    slug: "airpods",
-    title: "AirPods",
-    description: "Fones sem fio",
-    image: "/airpods.jpg",
-    details: "Cancelamento de ruído..."
+    slug: "morango",
+    title: "Morango",
+    description: "Azeda",
+    image: "🍓",
+    details: "O morango é rico em antioxidantes."
   },
   {
-    slug: "apple-watch",
-    title: "Apple Watch",
-    description: "Smartwatch",
-    image: "/watch.jpg",
-    details: "Monitoramento cardíaco..."
+    slug: "abacaxi",
+    title: "Abacaxi",
+    description: "Melhor Fruta!",
+    image: "🍍",
+    details: "O abacaxi ajuda na digestão."
   }
 ]
